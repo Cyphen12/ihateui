@@ -4,7 +4,7 @@
   "description": "It is a responsive ui kit for react developers",
   "author": "kumard3",
   "license": "MIT",
-  "repository": "kumard3/ihateui",
+  "repository": "Cyphen12/ihateui",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
