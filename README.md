@@ -7,23 +7,22 @@
 ## Install
 
 ```bash
-npm install --save ihateui
+npm install ihateui
 ```
 
 ## Usage
 
 ```tsx
-import React, { Component } from 'react'
+import React from 'react'
+import {MyComponent} from 'ihateui'
 
-import MyComponent from 'ihateui'
-import 'ihateui/dist/index.css'
-
-class Example extends Component {
-  render() {
-    return <MyComponent />
-  }
+export default function App(){
+return (
+<>
+<MyComponent/>
+</>
+)
 }
-```
 
 ## License
 
